@@ -1,0 +1,2 @@
+This message had an attachment whose type is not permitted. The attachment has been deleted.
+jsoup-1.11.3.jar	 jar
