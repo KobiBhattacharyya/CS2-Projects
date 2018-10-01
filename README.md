@@ -8,7 +8,7 @@ Data Structure: Which data structures were used in this program?<br />
 File to Run: Name of file to execute<br />
 
 Autocomplete<br />
-Creates a trie (created from scratch) and populates it with words from given text files. The program then asks for a fragment of a word and returns all words containing that fragment.<br />
+Creates a trie and populates it with words from given text files. The program then asks for a fragment of a word and returns all words containing that fragment.<br />
 Trie<br />
 AutoComplete.java<br />
 
