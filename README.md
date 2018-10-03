@@ -1,5 +1,5 @@
 # CS2-Projects
-A collection of projects utilizing data structures:
+A collection of projects utilizing data structures. Thanks in part to *Algorithms* by Robert Sedgewick for providing some precoded data structures for some of the below projects. 
 
 KEY<br />
 Title: Name of project<br />
